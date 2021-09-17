@@ -101,7 +101,7 @@
           "name": "web",
           "apiVersion": "2016-08-01",
           "properties": {
-            "phpVersion": "7.0"
+            "phpVersion": "7.4.22"
           },
           "dependsOn": [
             "[concat('Microsoft.Web/sites/', variables('siteName'))]"
